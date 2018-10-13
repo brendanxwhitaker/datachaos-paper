@@ -1,0 +1,150 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{8}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Beckman, Skluzacek, Chard, and Foster}{Beckman
+  et~al\mbox{.}}{2017}]%
+        {beckman2017skluma}
+\bibfield{author}{\bibinfo{person}{Paul Beckman}, \bibinfo{person}{Tyler~J
+  Skluzacek}, \bibinfo{person}{Kyle Chard}, {and} \bibinfo{person}{Ian
+  Foster}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Skluma: A statistical learning pipeline for taming
+  unkempt data repositories}. In \bibinfo{booktitle}{\emph{29th International
+  Conference on Scientific and Statistical Database Management}}.
+  \bibinfo{pages}{41}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Brackenbury, Liu, Mondal, Elmore, Ur, Chard,
+  and Franklin}{Brackenbury et~al\mbox{.}}{2018}]%
+        {brackenbury2018}
+\bibfield{author}{\bibinfo{person}{Will Brackenbury}, \bibinfo{person}{Rui
+  Liu}, \bibinfo{person}{Mainack Mondal}, \bibinfo{person}{Aaron~J. Elmore},
+  \bibinfo{person}{Blase Ur}, \bibinfo{person}{Kyle Chard}, {and}
+  \bibinfo{person}{Michael~J. Franklin}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Draining the Data Swamp: A Similarity-based
+  Approach}. In \bibinfo{booktitle}{\emph{Proceedings of the Workshop on
+  Human-In-the-Loop Data Analytics}} \emph{(\bibinfo{series}{HILDA'18})}.
+  \bibinfo{publisher}{ACM}, \bibinfo{address}{New York, NY, USA}, Article
+  \bibinfo{articleno}{13}, \bibinfo{numpages}{7}~pages.
+\newblock
+\showISBNx{978-1-4503-5827-9}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3209900.3209911}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Chessell, Scheepers, Nguyen, van Kessel, and
+  van~der Starre}{Chessell et~al\mbox{.}}{2014}]%
+        {chessell:bigdata}
+\bibfield{author}{\bibinfo{person}{M. Chessell}, \bibinfo{person}{F.
+  Scheepers}, \bibinfo{person}{N. Nguyen}, \bibinfo{person}{R. van Kessel},
+  {and} \bibinfo{person}{R. van~der Starre}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Governing and Managing Big Data for
+  Analytics and Decision Makers}}.
+\newblock
+\urldef\tempurl%
+\url{http://www.redbooks.ibm.com/redpapers/pdfs/redp5120.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Hai, Geisler, and Quix}{Hai
+  et~al\mbox{.}}{2016}]%
+        {hai2016constance}
+\bibfield{author}{\bibinfo{person}{Rihan Hai}, \bibinfo{person}{Sandra
+  Geisler}, {and} \bibinfo{person}{Christoph Quix}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Constance: An intelligent data lake system}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 2016 International Conference on
+  Management of Data}}. ACM, \bibinfo{pages}{2097--2100}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Jeffery, Franklin, and Halevy}{Jeffery
+  et~al\mbox{.}}{2008}]%
+        {jeffery2008pay}
+\bibfield{author}{\bibinfo{person}{Shawn~R Jeffery}, \bibinfo{person}{Michael~J
+  Franklin}, {and} \bibinfo{person}{Alon~Y Halevy}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{Pay-as-you-go user feedback for dataspace systems}.
+  In \bibinfo{booktitle}{\emph{Proceedings of the 2008 ACM SIGMOD international
+  conference on Management of data}}. ACM, \bibinfo{pages}{847--860}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Madhavan, Jeffery, Cohen, Dong, Ko, Yu, and
+  Halevy}{Madhavan et~al\mbox{.}}{2007}]%
+        {madhavan2007web}
+\bibfield{author}{\bibinfo{person}{Jayant Madhavan}, \bibinfo{person}{Shawn~R
+  Jeffery}, \bibinfo{person}{Shirley Cohen}, \bibinfo{person}{Xin Dong},
+  \bibinfo{person}{David Ko}, \bibinfo{person}{Cong Yu}, {and}
+  \bibinfo{person}{Alon Halevy}.} \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Web-scale data integration: You can only afford to
+  pay as you go}. CIDR.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rousseeuw}{Rousseeuw}{1987}]%
+        {silhouette}
+\bibfield{author}{\bibinfo{person}{Peter~J. Rousseeuw}.}
+  \bibinfo{year}{1987}\natexlab{}.
+\newblock \showarticletitle{Silhouettes: A graphical aid to the interpretation
+  and validation of cluster analysis}.
+\newblock \bibinfo{journal}{\emph{J. Comput. Appl. Math.}}
+  \bibinfo{volume}{20} (\bibinfo{year}{1987}), \bibinfo{pages}{53 -- 65}.
+\newblock
+\showISSN{0377-0427}
+\urldef\tempurl%
+\url{https://doi.org/10.1016/0377-0427(87)90125-7}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{{U.S. Dept. of Energy}}{{U.S. Dept. of
+  Energy}}{2017}]%
+        {CDIAC}
+\bibfield{author}{\bibinfo{person}{{U.S. Dept. of Energy}}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{{Carbon Dioxide Information Analysis Center}}.
+\newblock
+\newblock
+\newblock
+\shownote{\url{ftp://cdiac.ornl.gov}. Visited Feb. 28, 2017.}
+
+
+\end{thebibliography}
